@@ -16,7 +16,7 @@ const settings = {
   centerPadding: "0",
   dots: false,
   arrows: false,
-  swipeToSlide: false,
+  swipe: false,
   responsive: [
     {
       breakpoint: 980,
